@@ -1,5 +1,3 @@
-from matplotlib.image import pil_to_array
-
 a = []
 b = []
 
