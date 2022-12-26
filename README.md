@@ -29,8 +29,7 @@ Bar Graph
 Renewable energy splitup
 
 Pie chart
-
-![image](https://user-images.githubusercontent.com/83136054/208192840-fba2e9fe-23ba-4e72-9f8b-5ffd3f559a4f.png)
+![image](https://user-images.githubusercontent.com/83136054/209528305-7b544177-c8c5-42c9-b1a9-5875550464b4.png)
 
 Bar Graph
 
