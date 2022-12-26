@@ -33,4 +33,4 @@ Pie chart
 
 Bar Graph
 
-![image](https://user-images.githubusercontent.com/83136054/208192885-f9b1aded-ea8d-4400-9a3e-642d1b1fa64a.png)
+![image](https://user-images.githubusercontent.com/83136054/209529279-725ca5c5-b20d-439a-add2-e142ce7e07e3.png)
