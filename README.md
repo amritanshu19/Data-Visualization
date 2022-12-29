@@ -10,7 +10,7 @@ ALL INDIA  INSTALLED CAPACITY
 
 Pie chart
 
-![image](https://user-images.githubusercontent.com/83136054/208192488-92c0ddc3-badc-4ad2-bd20-8c6da5f68336.png)
+![image](https://user-images.githubusercontent.com/83136054/209935683-797eb794-6cc9-4c9c-a2f2-350614a3230e.png)
 
 Bar Graph
 
