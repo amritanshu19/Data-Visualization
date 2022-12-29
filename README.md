@@ -14,7 +14,7 @@ Pie chart
 
 Bar Graph
 
-![image](https://user-images.githubusercontent.com/83136054/208192587-c2788563-4205-4dae-a73f-4ca07511cedf.png)
+![image](https://user-images.githubusercontent.com/83136054/209940357-8c5b20e4-b723-427c-a878-97e3919ab8bf.png)
 
 Thermal energy splitup
 
