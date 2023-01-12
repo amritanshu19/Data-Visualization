@@ -1,8 +1,8 @@
-% Code for two spheres in MATLAB
+% GPT-3 vs GPT-4 MATLAB
 
 % Define sphere radii
 r1 = 1;
-r2 = 541.43;
+r2 = 541.43; %1000/1.75
 
 % Create a grid of points for sphere 1
 [x1, y1, z1] = sphere(50);
